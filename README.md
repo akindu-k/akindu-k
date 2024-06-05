@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, AI, and open-source projects.
 - 🌱 I’m currently learning Java, C, C++, C#, React JS, Python, Machine Learning, and AI.
 - 💞️ I’m looking to collaborate on innovative web applications and AI projects.
-- 📫 How to reach me: You can reach me via email at akindu@example.com or connect with me on LinkedIn.
+- 📫 How to reach me: You can reach me via email at akinduk619@gmail.com or connect with me on LinkedIn.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to engage with people!
 
