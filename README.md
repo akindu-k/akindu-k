@@ -21,16 +21,27 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/akindu-kalhan/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akindu" height="30" width="40" />
-</a>
-<a hrehttps://stackoverflow.com/users/22228691/akindu-kalhan" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="akindu" height="30" width="40" />
-</a>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ <a href="https://www.linkedin.com/in/akindu-kalhan/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/22228691/akindu-kalhan" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-Stack%20Overflow-F58025?style=for-the-badge&logo=Stack-Overflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  
+
 <a href="https://www.facebook.com/profile.php?id=100086531810329" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akindu" height="30" width="40" />
-</a>
+    <img align="center" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
+
+
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
