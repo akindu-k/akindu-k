@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=akindu&label=Profile%20views&color=0e75b6&style=flat" alt="akindu" /> 
 </p>
 
-<!-->- 🔭 I’m currently working on **[Your Current Project]**<-->
+<!--- 🔭 I’m currently working on **[Your Current Project]*-->
 
 - 🌱 I’m currently learning **Machine Learning, OpenCV, and Ballerina**
 
