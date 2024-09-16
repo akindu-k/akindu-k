@@ -58,8 +58,8 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akindu&show_icons=true&locale=en&layout=compact" alt="akindu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akindu-k&show_icons=true&locale=en&layout=compact" alt="akindu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akindu&show_icons=true&locale=en" alt="akindu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akindu-k&show_icons=true&locale=en" alt="akindu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akindu&" alt="akindu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akindu-k&" alt="akindu" /></p>
