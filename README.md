@@ -47,7 +47,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
   <a href="https://ballerina.io/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/ballerina-platform/ballerina-lang/main/docs/images/ballerina-logo.svg" alt="ballerina" width="40" height="40"/> 
+    <img src="[https://raw.githubusercontent.com/ballerina-platform/ballerina-lang/main/docs/images/ballerina-logo.svg](https://ballerina.io/trademark-usage-policy/)" alt="ballerina" width="40" height="40"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
