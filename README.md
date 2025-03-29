@@ -8,6 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=akindu&label=Profile%20views&color=0e75b6&style=flat" alt="akindu" /> 
 </p>
 
+<p align="center">
+  <img src="https://github.com/akindu-k/akindu-k/blob/183aff42121495a6bac670afc08347402a14a9d8/dyson_sphere.jpeg"/>
+</p>
+
 - 🌱 I’m currently learning **Machine Learning, OpenCV, and Ballerina**
 
 - 👯 I’m looking to collaborate on **Open Source AI and CV Projects**
