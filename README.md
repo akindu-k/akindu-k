@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=0e7fbc&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Akindu+Kalhan!" alt="Typing SVG">
 </h1>
 
-<h3 align="center">An Electrical Engineering Undergraduate passionate about AI, ML, and Digital Signal Processing</h3>
+<h3 align="center">An Electrical Engineering Undergraduate passionate about AI, ML, and CV</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=akindu&label=Profile%20views&color=0e75b6&style=flat" alt="akindu" /> 
