@@ -34,18 +34,19 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akindu-k&hide=Tcl,HTML,Pascal,Perl,Makefile,Cmake,Shell&layout=compact&langs_count=5&custom_title=Most%20Used%20Languages&card_width=470px&bg_color=1a101c25&text_color=ffffff&title_color=9595ea&border_radius=10&border_color=6b4176#gh-dark-mode-only)](https://github.com/akindu-k#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akindu-k&hide=Tcl,HTML,Pascal,Perl,Makefile,Cmake,Shell&layout=compact&langs_count=5&custom_title=Most%20Used%20Languages&card_width=470px&bg_color=fdf5ff&text_color=000000&title_color=2f2f96&border_radius=10&border_color=4747d8#gh-light-mode-only)](https://github.com/akindu-k#gh-light-mode-only)
 
-<br>
+
+
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/akindu-kalhan/" target="blank">
-    <img align="center" src="icons/linkedin.svg" alt="Akindu Kalhan" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/22228691/akindu-kalhan" target="blank">
-    <img align="center" src="icons/stackoverflow.svg" height="30" width="40" />
-  </a>
-  <a href="mailto:akinduk619@gmail.com" target="blank">
-    <img align="center" src="icons/gmail.svg" alt="Email" height="30" width="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/akindu-kalhan/" target="blank"><img align="center"
+      src="icons\linkedin.svg"
+      alt="Akindu Kalhan" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/22228691/akindu-kalhan" target="blank"><img align="center"
+      src="icons\stackoverflow.svg" height="30" width="40" /></a>
+  <a href="mailto:akinduk619@gmail.com" target="blank"><img align="center"
+      src="icons\gmail.svg"
+      alt="Akindu Kalhan" height="30" width="40" /></a>
+
 </p>
 
   
