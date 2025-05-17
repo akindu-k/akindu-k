@@ -1,6 +1,6 @@
-<h1 align="center">
+<!--<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=0e7fbc&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Akindu+Kalhan!" alt="Typing SVG">
-</h1>
+</h1>-->
 
 <h3 align="center">An Electrical Engineering Undergraduate passionate about AI, ML, and CV</h3>
 
@@ -12,24 +12,6 @@
   <p align="center">
   <img src="git_profile.jpeg" width="400" />
 </p>-->
-
-
-
-
-
-- 👯 I’m looking to collaborate on **Open Source AI and CV Projects**
-
-
-  
- 
-
-
-
-
-
-
-
-
 
 
 <!--<h3 align="left">Languages and Tools:</h3>
