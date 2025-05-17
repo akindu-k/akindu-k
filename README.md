@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/akindu-k/akindu-k/blob/183aff42121495a6bac670afc08347402a14a9d8/git_profile.jpeg"/>
+  <img src="git_profile.jpeg"/>
 </p>
 
 
