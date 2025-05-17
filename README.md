@@ -8,9 +8,12 @@
   <img src="https://komarev.com/ghpvc/?username=akindu&label=Profile%20views&color=0e75b6&style=flat" alt="akindu" /> 
 </p>
 
-<p align="center">
-  <img src="git_profile.jpeg"/>
+
+  <p align="center">
+  <img src="git_profile.jpeg" width="400" />
 </p>
+
+
 
 
 
