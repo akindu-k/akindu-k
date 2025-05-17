@@ -9,14 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/akindu-k/akindu-k/blob/183aff42121495a6bac670afc08347402a14a9d8/dyson_sphere.jpeg"/>
+  <img src="https://github.com/akindu-k/akindu-k/blob/183aff42121495a6bac670afc08347402a14a9d8/git_profile.jpeg"/>
 </p>
 
-- 🌱 I’m currently learning **Machine Learning, OpenCV, and Ballerina**
+
 
 - 👯 I’m looking to collaborate on **Open Source AI and CV Projects**
-
-- 💬 Ask me about **Machine Learning, AI, and Digital Signal Processing**
 
 - 📫 How to reach me **akinduk619@gmail.com**
 
