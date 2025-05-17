@@ -19,18 +19,9 @@
 
 - 👯 I’m looking to collaborate on **Open Source AI and CV Projects**
 
-- 📫 How to reach me **akinduk619@gmail.com**
-
 
   
-  <!--<a href="https://www.hackerrank.com/chathuradesilva" target="blank"><img align="center"
-      src="icons\hackerrank.svg"
-      alt="Chathura De Silva" height="30" width="40" /></a>
- <!--<a href="https://twitter.com/chathuradsilva" target="blank"><img align="center"
-      src="icons\twitter.svg"
-      alt="Chathura De Silva" height="30" width="40" /></a>
-</p>
-
+ 
 
 
 
@@ -57,16 +48,22 @@
 
 ### :paw_prints: Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akindu-k&hide=Tcl,HTML,Pascal,Perl,Makefile,Cmake,Shell&layout=compact&langs_count=5&custom_title=Most%20Used%20Languages%20in%20FOSS%20Projects&card_width=470px&bg_color=1a101c25&text_color=ffffff&title_color=9595ea&border_radius=10&border_color=6b4176#gh-dark-mode-only)](https://github.com/akindu-k#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akindu-k&hide=Tcl,HTML,Pascal,Perl,Makefile,Cmake,Shell&layout=compact&langs_count=5&custom_title=Most%20Used%20Languages%20in%20FOSS%20Projects&card_width=470px&bg_color=fdf5ff&text_color=000000&title_color=2f2f96&border_radius=10&border_color=4747d8#gh-light-mode-only)](https://github.com/akindu-k#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akindu-k&hide=Tcl,HTML,Pascal,Perl,Makefile,Cmake,Shell&layout=compact&langs_count=5&custom_title=Most%20Used%20Languages&card_width=470px&bg_color=1a101c25&text_color=ffffff&title_color=9595ea&border_radius=10&border_color=6b4176#gh-dark-mode-only)](https://github.com/akindu-k#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akindu-k&hide=Tcl,HTML,Pascal,Perl,Makefile,Cmake,Shell&layout=compact&langs_count=5&custom_title=Most%20Used%20Languages&card_width=470px&bg_color=fdf5ff&text_color=000000&title_color=2f2f96&border_radius=10&border_color=4747d8#gh-light-mode-only)](https://github.com/akindu-k#gh-light-mode-only)
 
 <br>
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/akindu-kalhan/" target="blank"><img align="center"
-      src="icons\linkedin.svg"
-      alt="Akindu Kalhan" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/22228691/akindu-kalhan" target="blank"><img align="center"
-      src="icons\stackoverflow.svg" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/akindu-kalhan/" target="blank">
+    <img align="center" src="icons/linkedin.svg" alt="Akindu Kalhan" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/22228691/akindu-kalhan" target="blank">
+    <img align="center" src="icons/stackoverflow.svg" height="30" width="40" />
+  </a>
+  <a href="mailto:akinduk619@gmail.com" target="blank">
+    <img align="center" src="icons/gmail.svg" alt="Email" height="30" width="40" />
+  </a>
+</p>
+
   
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="line_break.gif"></a>
+<img src="line_break.gif">
