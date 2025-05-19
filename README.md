@@ -23,15 +23,13 @@
 
 ### :paw_prints: GitHub Statistics
 
-[![Akindu's GitHub stats]((https://github-readme-stats.vercel.app/api?username=akindu-k&theme=vision-friendly-dark)
-)
+![Akindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=akindu-k&theme=vision-friendly-dark)
 
 
 
 ### :paw_prints: Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akindu-k&hide=Tcl,HTML,Pascal,Perl,Makefile,Cmake,Shell&layout=compact&langs_count=5&custom_title=Most%20Used%20Languages&card_width=470px&bg_color=1a101c25&text_color=ffffff&title_color=9595ea&border_radius=10&border_color=6b4176#gh-dark-mode-only)](https://github.com/akindu-k#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akindu-k&hide=Tcl,HTML,Pascal,Perl,Makefile,Cmake,Shell&layout=compact&langs_count=5&custom_title=Most%20Used%20Languages&card_width=470px&bg_color=fdf5ff&text_color=000000&title_color=2f2f96&border_radius=10&border_color=4747d8#gh-light-mode-only)](https://github.com/akindu-k#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akindu-k&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
