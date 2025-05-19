@@ -23,9 +23,8 @@
 
 ### :paw_prints: GitHub Statistics
 
-[![Akindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=akindu-k&rank_icon=github&show=prs_merged_percentage&hide=contribs,issues&show_icons=true&custom_title=Open%20Source%20Contributions&bg_color=1a101c25&icon_color=9595ea&text_color=ffffff&title_color=9595ea&border_radius=10&border_color=6b4176#gh-dark-mode-only)](https://github.com/akindu-k#gh-dark-mode-only)
-
-[![Akindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=akindu-k&rank_icon=github&show=prs_merged_percentage&hide=contribs,issues&show_icons=true&custom_title=Open%20Source%20Contributions&bg_color=fdf5ff&text_color=000000&title_color=2f2f96&border_radius=10&border_color=4747d8&icon_color=c97bde#gh-light-mode-only)](https://github.com/akindu-k#gh-light-mode-only)
+[![Akindu's GitHub stats]((https://github-readme-stats.vercel.app/api?username=akindu-k&theme=vision-friendly-dark)
+)
 
 
 
