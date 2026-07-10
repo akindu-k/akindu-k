@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="440" viewBox="0 0 820 440" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace">
+  <defs>
+    <clipPath id="win"><rect width="820" height="440" rx="14"/></clipPath>
+    <linearGradient id="badge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#0e7fbc"/>
+    </linearGradient>
+    <style>
+      .line { opacity: 0; animation: reveal .01s linear forwards; }
+      @keyframes reveal { to { opacity: 1; } }
+      .l1{animation-delay:.25s}.l2{animation-delay:.5s}.l3{animation-delay:.75s}
+      .l4{animation-delay:1s}.l5{animation-delay:1.25s}.l6{animation-delay:1.5s}
+      .l7{animation-delay:1.75s}.l8{animation-delay:2s}.l9{animation-delay:2.25s}
+      .l10{animation-delay:2.5s}.l11{animation-delay:2.75s}.l12{animation-delay:3s}
+      .key{fill:#5eead4;font-weight:700}.val{fill:#cdd6f4}.dim{fill:#6c7086}
+    </style>
+  </defs>
+
+  <g clip-path="url(#win)">
+    <!-- window body -->
+    <rect width="820" height="440" fill="#1a1b26"/>
+    <!-- title bar -->
+    <rect width="820" height="42" fill="#24283b"/>
+    <circle cx="26" cy="21" r="7" fill="#ff5f56"/>
+    <circle cx="50" cy="21" r="7" fill="#ffbd2e"/>
+    <circle cx="74" cy="21" r="7" fill="#27c93f"/>
+    <text x="410" y="26" text-anchor="middle" font-size="13" fill="#a9b1d6">akindu@github — -zsh — 82×24</text>
+
+    <!-- prompt -->
+    <text x="30" y="80" font-size="14" class="line l1">
+      <tspan fill="#9ece6a">akindu@github</tspan><tspan fill="#7aa2f7"> ~</tspan><tspan fill="#bb9af7"> %</tspan><tspan fill="#c0caf5"> neofetch</tspan>
+    </text>
+
+    <!-- badge / logo -->
+    <g class="line l2">
+      <rect x="40" y="104" width="150" height="150" rx="20" fill="url(#badge)"/>
+      <text x="115" y="200" text-anchor="middle" font-size="72" font-weight="800" fill="#0b1021">AK</text>
+      <text x="115" y="284" text-anchor="middle" font-size="12" class="dim">~/electrons/ideas</text>
+    </g>
+
+    <!-- neofetch info -->
+    <g font-size="14.5">
+      <text x="240" y="118" class="line l3"><tspan fill="#9ece6a" font-weight="700">akindu</tspan><tspan class="dim">@</tspan><tspan fill="#7aa2f7" font-weight="700">github</tspan></text>
+      <text x="240" y="138" class="line l3 dim">--------------------------------</text>
+      <text x="240" y="164" class="line l4"><tspan class="key">Host   </tspan><tspan class="val">Akindu Kalhan</tspan></text>
+      <text x="240" y="188" class="line l5"><tspan class="key">OS     </tspan><tspan class="val">Electrical Engineering, Undergrad</tspan></text>
+      <text x="240" y="212" class="line l6"><tspan class="key">Kernel </tspan><tspan class="val">AI · Machine Learning · Computer Vision</tspan></text>
+      <text x="240" y="236" class="line l7"><tspan class="key">Shell  </tspan><tspan class="val">zsh — caffeine mode, low latency</tspan></text>
+      <text x="240" y="260" class="line l8"><tspan class="key">Langs  </tspan><tspan class="val">Python · C++ · C · Java · JavaScript</tspan></text>
+      <text x="240" y="284" class="line l9"><tspan class="key">Stack  </tspan><tspan class="val">PyTorch · TensorFlow · OpenCV · React</tspan></text>
+      <text x="240" y="308" class="line l10"><tspan class="key">Uptime </tspan><tspan class="val">always learning, never overfitting</tspan></text>
+      <text x="240" y="332" class="line l11"><tspan class="key">Status </tspan><tspan fill="#9ece6a">● online</tspan><tspan class="val"> — building something cool</tspan></text>
+    </g>
+
+    <!-- palette -->
+    <g class="line l11" transform="translate(240,352)">
+      <rect x="0"   width="20" height="14" rx="3" fill="#f7768e"/>
+      <rect x="26"  width="20" height="14" rx="3" fill="#e0af68"/>
+      <rect x="52"  width="20" height="14" rx="3" fill="#9ece6a"/>
+      <rect x="78"  width="20" height="14" rx="3" fill="#5eead4"/>
+      <rect x="104" width="20" height="14" rx="3" fill="#7aa2f7"/>
+      <rect x="130" width="20" height="14" rx="3" fill="#bb9af7"/>
+      <rect x="156" width="20" height="14" rx="3" fill="#a9b1d6"/>
+    </g>
+
+    <!-- closing prompt + blinking cursor -->
+    <g class="line l12">
+      <text x="30" y="410" font-size="14"><tspan fill="#9ece6a">akindu@github</tspan><tspan fill="#7aa2f7"> ~</tspan><tspan fill="#bb9af7"> %</tspan><tspan fill="#c0caf5"> </tspan></text>
+      <rect x="152" y="399" width="9" height="15" fill="#c0caf5">
+        <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="819" height="439" rx="14" fill="none" stroke="#2f334d"/>
+</svg>
